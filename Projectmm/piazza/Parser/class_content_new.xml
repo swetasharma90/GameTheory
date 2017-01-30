@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="array">
+  <content>
+    <tag-good type="array">
+      <tag-good>
+        <us type="boolean">false</us>
+        <name>Kamal Nayan Goyal</name>
+        <admin type="boolean">false</admin>
+        <email>kng@csa.iisc.ernet.in</email>
+        <facebook-id nil="true"></facebook-id>
+        <id>i4tkrjjhv8hm6</id>
+        <role>student</role>
+        <photo nil="true"></photo>
+      </tag-good>
+    </tag-good>
+    <type>note</type>
+    <folders type="array">
+      <folder>other</folder>
+    </folders>
+    <status>active</status>
+    <created type="datetime">2015-01-14T11:20:42Z</created>
+    <unique_views>26</unique_views>
+    <children type="array">
+      <child>
+        <type>followup</type>
+        <d-bucket>Yesterday</d-bucket>
+        <folders type="array"/>
+        <created type="datetime">2015-01-14T14:11:59Z</created>
+        <anon>no</anon>
+        <children type="array">
+          <child>
+            <type>feedback</type>
+            <d-bucket>Yesterday</d-bucket>
+            <folders type="array"/>
+            <created type="datetime">2015-01-15T08:13:28Z</created>
+            <anon>no</anon>
+            <children type="array"/>
+            <id>i4xv1kpfuvj40s</id>
+            <data nil="true"></data>
+            <subject>&lt;p&gt;In this scenario,&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The second commander is sure that the first commander will attack. This implies that the second commander will attack.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;However, the first commander is not sure if the second commander is sure that the first commander will attack.&lt;/p&gt;
+&lt;p&gt;This implies that the first commander is not sure if the second commander will attack.&lt;/p&gt;
+&lt;p&gt;This implies that the first commander will not attack.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Now, the second commander is sure that the first commander is not sure if the second commander is sure that the first commander will attack.&lt;/p&gt;
+&lt;p&gt;This implies that the second commander is sure that the first commander will not attack.&lt;/p&gt;
+&lt;p&gt;Hence, the second commander will not attack.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Therefore, certainly both will not attack in the morning.&lt;/p&gt;</subject>
+            <bucket_order>3</bucket_order>
+            <config>
+            </config>
+            <updated type="datetime">2015-01-15T08:13:28Z</updated>
+            <bucket_name>Yesterday</bucket_name>
+            <uid>i4tkrjjhv8hm6</uid>
+          </child>
+        </children>
+        <id>i4wserydbzw7d4</id>
+        <data nil="true"></data>
+        <no_answer>0</no_answer>
+        <subject>&lt;p&gt;yes Kamal.. it is a very interesting example. I found the following to explain the notion of common knowledge even more clearly.&#160;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;An item of information in a game is common knowledge if all of the players know it (it is&#160;&lt;a href="http://www.gametheory.net/dictionary/MutualKnowledge.html"&gt;mutual knowledge&lt;/a&gt;) and all of the players know that all other players know it and all other players know that all other players know that all other players know it, and so on. This is much more than simply saying that something is known by all, but also implies that the fact that it is known is also known by all, etc. Consider a simple example of two allied armies situated on opposite hilltops waiting to attack their foe. Neither commander will attack unless he is sure that the other will attack at exactly the same time. The first commander sends a messenger to the other hilltop with the message &amp;#34;I plan to attack in the morning.&amp;#34; The messenger&amp;#39;s journey is perilous and he may die on the way to delivering the message. If he gets to the other hilltop and informs the other commander - can we be certain that both will attack in the morning? Note that both commanders now know the message, but the first cannot be sure that the second got the message. Thus, common knowledge implies not only that both know some piece of information, but can also be absolutely confident that the rest know it, and that the rest know that we know it, and so on.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;(source:&#160;&lt;a href="http://www.gametheory.net/dictionary/CommonKnowledge.html"&gt;http://www.gametheory.net/dictionary/CommonKnowledge.html&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family:&amp;#34;helvetica&amp;#34;,&amp;#34;arial&amp;#34;,sans-serif;background-color:#ccf"&gt;&#160;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</subject>
+        <bucket_order>3</bucket_order>
+        <config>
+        </config>
+        <updated type="datetime">2015-01-14T14:11:59Z</updated>
+        <bucket_name>Yesterday</bucket_name>
+        <uid>gy7ge1n13jj47j</uid>
+        <no_upvotes>0</no_upvotes>
+      </child>
+    </children>
+    <id>i4wmaidd1mh39</id>
+    <config>
+    </config>
+    <history type="array">
+      <history>
+        <created type="datetime">2015-01-14T11:20:42Z</created>
+        <anon>no</anon>
+        <subject>Common Knowledge</subject>
+        <content>&lt;p&gt;Consider this interesting puzzle.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;There is a planet on which only red-eyed and blue-eyed creatures live. They is&#160;no mode of communication between&#160;them and there are no reflecting surfaces on the planet.&#160;Therefore,&#160;they can not know the color of their eyes until they are able to logically deduce it with absolute surety. However, every creature can see the color of every other creature&amp;#39;s eyes. A fairy visits the planet every night and takes along any red-eyed creature which has logically deduced that it is indeed red-eyed. Suppose there are 100 red-eyed creatures on the planet. One fine day all the creatures assemble near a hill, where the&#160;green-eyed God of the planet&#160;lives. From the hill he&#160;makes an announcement - &amp;#34;I see atleast one red-eyed person&amp;#34;. After this announcement of the green-eyed God, when and which&#160;red-eyed creature leaves the planet with the fairy?&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Solution&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Suppose there is just one red-eyed person, then immediately after the announcement it&#160;deduces that it is red-eyed, since, all other&#160;creatures that it sees are blue-eyed and there is atleast one red-eyed creature. So, it leaves the very first night of the day the announcement was made.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Now, if there are two red-eyed creatures, then on the day the announcement is made, both the red-eyed creatures think that the God said about the other red-eyed creature. However, on the next day both the red-eyed creatures see the other red-eyed creature and deduce that both of them are red-eyed, since, all other creatures are blue-eyed. And if the other red-eyed creature had been the only red-eyed creature, then, it would have left on the very first night. Hence. both the red-eyed creatures depart from the planet on the second night after the day the announcement was made.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Continuing this argument, we realize that there is a mass salvation on the hundredth night after the day the announcement was made.&lt;/p&gt;</content>
+        <uid>i4tkrjjhv8hm6</uid>
+      </history>
+    </history>
+    <nr>6</nr>
+    <tags type="array">
+      <tag>other</tag>
+      <tag>student</tag>
+    </tags>
+    <change-log type="array">
+      <change-log>
+        <type>create</type>
+        <anon>no</anon>
+        <when type="datetime">2015-01-14T11:20:42Z</when>
+        <data>i4wmaidhbb63a</data>
+        <uid>i4tkrjjhv8hm6</uid>
+      </change-log>
+      <change-log>
+        <type>followup</type>
+        <anon>no</anon>
+        <when type="datetime">2015-01-14T14:11:59Z</when>
+        <to>i4wmaidd1mh39</to>
+        <uid>gy7ge1n13jj47j</uid>
+      </change-log>
+      <change-log>
+        <type>feedback</type>
+        <anon>no</anon>
+        <when type="datetime">2015-01-15T08:13:28Z</when>
+        <to>i4wmaidd1mh39</to>
+        <uid>i4tkrjjhv8hm6</uid>
+      </change-log>
+    </change-log>
+    <tag-good-arr type="array">
+      <tag_good_arr>i4tkrjjhv8hm6</tag_good_arr>
+    </tag-good-arr>
+    <no_answer_followup>0</no_answer_followup>
+  </content>
+    <content>
+    <tag-good type="array">
+      <tag-good>
+        <us type="boolean">false</us>
+        <name>Anubhav Gupta</name>
+        <admin type="boolean">false</admin>
+        <email>anubhav.gupta.3377@gmail.com</email>
+        <facebook-id nil="true"></facebook-id>
+        <id>hysl96l4yka240</id>
+        <role>student</role>
+        <photo nil="true"></photo>
+      </tag-good>
+      <tag-good>
+        <us type="boolean">false</us>
+        <name>rahul hasija</name>
+        <admin type="boolean">false</admin>
+        <email>rahul.hasija@csa.iisc.ernet.in</email>
+        <facebook-id nil="true"></facebook-id>
+        <id>hz0s0xyf3s5lv</id>
+        <role>student</role>
+        <photo nil="true"></photo>
+      </tag-good>
+      <tag-good>
+        <us type="boolean">false</us>
+        <name>Anupam Sanghi</name>
+        <admin type="boolean">false</admin>
+        <email>anupam.sanghi@csa.iisc.ernet.in</email>
+        <facebook-id nil="true"></facebook-id>
+        <id>hz0s0y2wd5vm7</id>
+        <role>student</role>
+        <photo nil="true"></photo>
+      </tag-good>
+      <tag-good>
+        <us type="boolean">false</us>
+        <name>Pankaj Bagul</name>
+        <admin type="boolean">false</admin>
+        <email>pankaj.bagul@csa.iisc.ernet.in</email>
+        <facebook-id nil="true"></facebook-id>
+        <id>hz0s0y92ryhmv</id>
+        <role>student</role>
+        <photo>1421307975_35.png</photo>
+      </tag-good>
+      <tag-good>
+        <us type="boolean">false</us>
+        <name>Maddineni Manohar</name>
+        <admin type="boolean">false</admin>
+        <email>maddineni.manohar@csa.iisc.ernet.in</email>
+        <facebook-id nil="true"></facebook-id>
+        <id>hz0s0ya9z9in1</id>
+        <role>student</role>
+        <photo>1421396739_35.png</photo>
+      </tag-good>
+      <tag-good>
+        <us type="boolean">false</us>
+        <name>Yogesh</name>
+        <admin type="boolean">false</admin>
+        <email>yogesh.bhosale@csa.iisc.ernet.in</email>
+        <facebook-id nil="true"></facebook-id>
+        <id>hznxpxh0x5i3l1</id>
+        <role>student</role>
+        <photo nil="true"></photo>
+      </tag-good>
+      <tag-good>
+        <us type="boolean">false</us>
+        <name>Shinjini Biswas</name>
+        <admin type="boolean">false</admin>
+        <email>shinjini.biswas@csa.iisc.ernet.in</email>
+        <facebook-id nil="true"></facebook-id>
+        <id>i4tvru50h7m6h</id>
+        <role>student</role>
+        <photo nil="true"></photo>
+      </tag-good>
+      <tag-good>
+        <us type="boolean">false</us>
+        <name>Aiswarya</name>
+        <admin type="boolean">false</admin>
+        <email>aiswaryas@ee.iisc.ernet.in</email>
+        <facebook-id nil="true"></facebook-id>
+        <id>i4uql3w24jt1n4</id>
+        <role>student</role>
+        <photo nil="true"></photo>
+      </tag-good>
+      <tag-good>
+        <us type="boolean">false</us>
+        <name>sudhir babu oruganti</name>
+        <admin type="boolean">false</admin>
+        <email>o.sudhir81@gmail.com</email>
+        <facebook-id nil="true"></facebook-id>
+        <id>i4w839aqf5a4q6</id>
+        <role>student</role>
+        <photo nil="true"></photo>
+      </tag-good>
+    </tag-good>
+    <type>question</type>
+    <folders type="array">
+      <folder>other</folder>
+    </folders>
+    <status>active</status>
+    <created type="datetime">2015-03-31T15:59:15Z</created>
+    <unique_views>42</unique_views>
+    <children type="array">
+      <child>
+        <type>s_answer</type>
+        <folders type="array"/>
+        <created type="datetime">2015-03-31T17:09:46Z</created>
+        <tag-endorse type="array">
+          <tag-endorse>
+            <us type="boolean">false</us>
+            <name>Anupam Sanghi</name>
+            <admin type="boolean">false</admin>
+            <email>anupam.sanghi@csa.iisc.ernet.in</email>
+            <facebook-id nil="true"></facebook-id>
+            <id>hz0s0y2wd5vm7</id>
+            <role>student</role>
+            <photo nil="true"></photo>
+          </tag-endorse>
+          <tag-endorse>
+            <us type="boolean">false</us>
+            <name>Shinjini Biswas</name>
+            <admin type="boolean">false</admin>
+            <email>shinjini.biswas@csa.iisc.ernet.in</email>
+            <facebook-id nil="true"></facebook-id>
+            <id>i4tvru50h7m6h</id>
+            <role>student</role>
+            <photo nil="true"></photo>
+          </tag-endorse>
+          <tag-endorse>
+            <us type="boolean">false</us>
+            <name>Aiswarya</name>
+            <admin type="boolean">false</admin>
+            <email>aiswaryas@ee.iisc.ernet.in</email>
+            <facebook-id nil="true"></facebook-id>
+            <id>i4uql3w24jt1n4</id>
+            <role>student</role>
+            <photo nil="true"></photo>
+          </tag-endorse>
+          <tag-endorse>
+            <us type="boolean">false</us>
+            <name>Vamshi Pasunuru</name>
+            <admin type="boolean">false</admin>
+            <email>vamshi.pasunuru@csa.iisc.ernet.in</email>
+            <facebook-id nil="true"></facebook-id>
+            <id>hz0s0ye67nzni</id>
+            <role>student</role>
+            <photo nil="true"></photo>
+          </tag-endorse>
+        </tag-endorse>
+        <children type="array"/>
+        <data>
+          <embed-links type="array"/>
+        </data>
+        <id>i7xk85dqv0gvy</id>
+        <tag-endorse-arr type="array">
+          <tag_endorse_arr>hz0s0ye67nzni</tag_endorse_arr>
+          <tag_endorse_arr>hz0s0y2wd5vm7</tag_endorse_arr>
+          <tag_endorse_arr>i4tvru50h7m6h</tag_endorse_arr>
+          <tag_endorse_arr>i4uql3w24jt1n4</tag_endorse_arr>
+        </tag-endorse-arr>
+        <bucket_order>2</bucket_order>
+        <config>
+        </config>
+        <history type="array">
+          <history>
+            <created type="datetime">2015-04-03T02:59:15Z</created>
+            <anon>no</anon>
+            <subject></subject>
+            <content>&lt;p&gt;I&amp;#39;m not sure if there is a &amp;#39;game theory&amp;#39; answer to this, but a simple probability calculation shows that it is always better to switch (strategy B, in your case) because this increases the probability of winning from 1/3 to 2/3.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;It is clear that when you first choose, the probability of choosing the winning door is 1/3.&#160;&lt;br /&gt;If you stick to your first choice the probability of winning stays at 1/3;&#160;nothing that host says changes this probability. &#160;&lt;br /&gt;Since there is a 1/3 probability that your first choice is the prize winning door, it follows that the probability&#160;that your first choice is NOT the prize winning door is&#160;2/3. &#160;But if your first choice is NOT the prize winning door then you are&#160;guaranteed to win by switching doors,&#160;That&amp;#39;s because the host always reveals a door without the prize&#160; (so, for example, if&#160;you chose door 1 and&#160;the prize is behind door 2, the host would&#160;have&#160;to&#160;reveal&#160;door 3, which has a goat).&#160;So, since you ALWAYS win by switching in the case where your first choice was not the prize winning door,&#160;there is a 2/3 probability of winning by switching.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;You can go through this video lecture for more details.&lt;br /&gt;&lt;a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-18-probability-introduction/"&gt;http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-18-probability-introduction/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+            <uid>hz0s0y8f59pms</uid>
+          </history>
+          <history>
+            <created type="datetime">2015-03-31T17:09:46Z</created>
+            <anon>no</anon>
+            <subject></subject>
+            <content>&lt;p&gt;I&amp;#39;m not sure if there is a &amp;#39;game theory&amp;#39; answer to this, but a simple probability calculation shows that it is always better to switch (strategy B, in your case) because this increases the probability of winning from 1/3 to 2/3.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;It is clear that when you first choose, the probability of choosing the winning door is 1/3.&#160;&lt;br /&gt;If you stick to your first choice the probability of winning stays at 1/3;&#160;nothing that host says changes this probability. &#160;&lt;br /&gt;Since there is a 1/3 probability that your first choice is the prize winning door, it follows that the probability&#160;that your first choice is NOT the prize winning door is&#160;2/3. &#160;But if your first choice is NOT the prize winning door then you are&#160;guaranteed to win by switching doors,&#160;That&amp;#39;s because the host always reveals a door without the prize&#160; (so, for example, if&#160;you chose door 1 and&#160;the prize is behind door 2, the host would&#160;have&#160;to&#160;reveal&#160;door 3, which has a goat).&#160;So, since you ALWAYS win by switching in the case where your first choice was not the prize winning door,&#160;there is a 2/3 probability of winning by switching.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;You can go through this video lecture for more details.&lt;br /&gt;&lt;a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-18-probability-introduction/"&gt;http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-18-probability-introduction/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+            <uid>hyskik8bsq71xj</uid>
+          </history>
+        </history>
+        <bucket_name>Today</bucket_name>
+      </child>
+      <child>
+        <type>followup</type>
+        <folders type="array"/>
+        <created type="datetime">2015-04-01T05:10:44Z</created>
+        <anon>no</anon>
+        <children type="array"/>
+        <id>i7y9zbfzyf14id</id>
+        <data nil="true"></data>
+        <no_answer>1</no_answer>
+        <subject>&lt;p&gt;&amp;#64;Sneha, Good reasoning, its straightforward to work this out using probability.But i was wondering how we can represent this game as a normal form game/extensive form game with 2 players so we can find best response of agent2!&lt;/p&gt;</subject>
+        <bucket_order>4</bucket_order>
+        <config>
+        </config>
+        <updated type="datetime">2015-04-01T05:10:44Z</updated>
+        <bucket_name>This week</bucket_name>
+        <uid>hz0s0ye67nzni</uid>
+        <no_upvotes>0</no_upvotes>
+      </child>
+      <child>
+        <type>followup</type>
+        <folders type="array"/>
+        <created type="datetime">2015-04-02T10:23:15Z</created>
+        <anon>no</anon>
+        <children type="array"/>
+        <id>i800l27hfpl6xg</id>
+        <data nil="true"></data>
+        <no_answer>1</no_answer>
+        <subject>&lt;p&gt;Yeah, as Sneha said, this game does not require a game theoretic modeling, and can be solved using a simple conditional probabilistic approach. But if we assume that the game show host is an evil host, i.e, depending on the participant&amp;#39;s answer he can switch the good from one door to another, then it becomes a game theoretic question,and a simple strategy will be to randomize between the two choices, to switch or not to switch.&lt;/p&gt;</subject>
+        <bucket_order>4</bucket_order>
+        <config>
+        </config>
+        <updated type="datetime">2015-04-02T10:23:15Z</updated>
+        <bucket_name>This week</bucket_name>
+        <uid>i4y18rf5nm02uf</uid>
+        <no_upvotes>0</no_upvotes>
+      </child>
+    </children>
+    <id>i7xhpgllszg6yk</id>
+    <no_answer>0</no_answer>
+    <config>
+    </config>
+    <history type="array">
+      <history>
+        <created type="datetime">2015-03-31T16:00:29Z</created>
+        <anon>no</anon>
+        <subject>An interesting problem</subject>
+        <content>&lt;p&gt;See this video which talks about the famous Monty hall problem from movie 21 ,&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=cXqDIFUB7YU"&gt;https://www.youtube.com/watch?v=cXqDIFUB7YU&lt;/a&gt;&lt;a href="https://www.youtube.com/watch?v=cXqDIFUB7YU" target="_blank"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The main problem statement is something like this&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Suppose you&amp;#39;re on a game show, and you&amp;#39;re given the choice&#160;of three doors: Behind one door is a car; behind the others, goats. You pick a door, say No.&#160;1, and the host, who knows what&amp;#39;s behind the doors, opens another door, say No.&#160;3, which has a goat. He then says to you, &amp;#34;Do you want to pick door No.&#160;2?&amp;#34; &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Now you can stay with same choice(Call this strategy A) or switch (Strategy B). &lt;em&gt;&lt;strong&gt;What is your best response?&#160;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;it would be interesting to see if&#160;we can model his problem using game theory and find dominant strategies (if exists)?&#160;&lt;/p&gt;</content>
+        <uid>hz0s0ye67nzni</uid>
+      </history>
+      <history>
+        <created type="datetime">2015-03-31T15:59:15Z</created>
+        <anon>no</anon>
+        <subject>An interesting problem</subject>
+        <content>&lt;p&gt;See this video which talks about the infamous Monty hall problem from movie 21 ,&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=cXqDIFUB7YU"&gt;https://www.youtube.com/watch?v=cXqDIFUB7YU&lt;/a&gt;&lt;a href="https://www.youtube.com/watch?v=cXqDIFUB7YU" target="_blank"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The main problem statement is something like this&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Suppose you&amp;#39;re on a game show, and you&amp;#39;re given the choice&#160;of three doors: Behind one door is a car; behind the others, goats. You pick a door, say No.&#160;1, and the host, who knows what&amp;#39;s behind the doors, opens another door, say No.&#160;3, which has a goat. He then says to you, &amp;#34;Do you want to pick door No.&#160;2?&amp;#34; &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Now you can stay with same choice(Call this strategy A) or switch (Strategy B). &lt;em&gt;&lt;strong&gt;What is your best response?&#160;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;it would be interesting to see if&#160;we can model his problem using game theory and find dominant strategies (if exists)?&#160;&lt;/p&gt;</content>
+        <uid>hz0s0ye67nzni</uid>
+      </history>
+    </history>
+    <nr>182</nr>
+    <tags type="array">
+      <tag>other</tag>
+      <tag>student</tag>
+    </tags>
+    <change-log type="array">
+      <change-log>
+        <type>create</type>
+        <anon>no</anon>
+        <when type="datetime">2015-03-31T15:59:15Z</when>
+        <data>i7xhpglpo296yl</data>
+        <uid>hz0s0ye67nzni</uid>
+      </change-log>
+      <change-log>
+        <type>update</type>
+        <anon>no</anon>
+        <when type="datetime">2015-03-31T16:00:29Z</when>
+        <data>i7xhr1w58ca7j3</data>
+        <uid>hz0s0ye67nzni</uid>
+      </change-log>
+      <change-log>
+        <type>s_answer</type>
+        <anon>no</anon>
+        <when type="datetime">2015-03-31T17:09:46Z</when>
+        <data>i7xk85dwy00vz</data>
+        <to>i7xhpgllszg6yk</to>
+        <uid>hyskik8bsq71xj</uid>
+      </change-log>
+      <change-log>
+        <type>followup</type>
+        <anon>no</anon>
+        <when type="datetime">2015-04-01T05:10:44Z</when>
+        <to>i7xhpgllszg6yk</to>
+        <uid>hz0s0ye67nzni</uid>
+      </change-log>
+      <change-log>
+        <type>followup</type>
+        <anon>no</anon>
+        <when type="datetime">2015-04-02T10:23:15Z</when>
+        <to>i7xhpgllszg6yk</to>
+        <uid>i4y18rf5nm02uf</uid>
+      </change-log>
+      <change-log>
+        <type>s_answer_update</type>
+        <anon>no</anon>
+        <when type="datetime">2015-04-03T02:59:15Z</when>
+        <data>i8105xld6mv3y</data>
+        <uid>hz0s0y8f59pms</uid>
+      </change-log>
+    </change-log>
+    <tag-good-arr type="array">
+      <tag_good_arr>hznxpxh0x5i3l1</tag_good_arr>
+      <tag_good_arr>hz0s0y92ryhmv</tag_good_arr>
+      <tag_good_arr>hz0s0ya9z9in1</tag_good_arr>
+      <tag_good_arr>i4uql3w24jt1n4</tag_good_arr>
+      <tag_good_arr>hz0s0y2wd5vm7</tag_good_arr>
+      <tag_good_arr>i4tvru50h7m6h</tag_good_arr>
+      <tag_good_arr>i4w839aqf5a4q6</tag_good_arr>
+      <tag_good_arr>hysl96l4yka240</tag_good_arr>
+      <tag_good_arr>hz0s0xyf3s5lv</tag_good_arr>
+    </tag-good-arr>
+    <no_answer_followup>2</no_answer_followup>
+  </content>
+  
+
+</contents>

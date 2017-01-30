@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<name>Aakar Deora</name>
+		<gender>Male</gender>
+		<SR>10297</SR>
+		<deptmail>aakar.deora@csa.ernet.iisc.in</deptmail>
+		<degree>ME</degree>
+		<department>CSA</department>
+		<state>Uttar Pradesh</state>
+		<CGPA>Below 5.0</CGPA>
+		<psne>4</psne>
+		<msne>3</msne>
+		<minmax>3</minmax>
+		<saddlept>4</saddlept>
+	</record>
+	<record>
+		<name>Aditya Cherla</name>
+		<gender>Male</gender>
+		<SR>10144</SR>
+		<deptmail>aditya.cherla@csa.iisc.ernet.in</deptmail>
+		<degree>ME</degree>
+		<department>CSA</department>
+		<state>Andhra Pradesh</state>
+		<CGPA>Below 5.0</CGPA>
+		<psne>5</psne>
+		<msne>4</msne>
+		<minmax>4</minmax>
+		<saddlept>5</saddlept>
+	</record>
+	<record>
+		<name>Amitabh Shrivastava</name>
+		<gender>Male</gender>
+		<SR>9019</SR>
+		<deptmail>amitabh@ug.iisc.in</deptmail>
+		<degree>BS</degree>
+		<department>OTHERS</department>
+		<state>Madhya Pradesh</state>
+		<CGPA>7-7.5</CGPA>
+		<psne>5</psne>
+		<msne>4</msne>
+		<minmax>4</minmax>
+		<saddlept>3</saddlept>
+	</record>
+	<record>
+		<name>ARTI BHAT</name>
+		<gender>Female</gender>
+		<SR>10230</SR>
+		<deptmail>arti.bhat@csa.iisc.ernet.in</deptmail>
+		<degree>ME</degree>
+		<department>CSA</department>
+		<state>Jammu and Kashmir</state>
+		<CGPA>6-6.5</CGPA>
+		<psne>4</psne>
+		<msne>3</msne>
+		<minmax>3</minmax>
+		<saddlept>4</saddlept>
+	</record>
+	<record>
+		<name>Ashoke Sudakar</name>
+		<gender>Male</gender>
+		<SR>10162</SR>
+		<deptmail>ashoke.s@csa.iisc.ernet.in</deptmail>
+		<degree>ME</degree>
+		<department>CSA</department>
+		<state>Tamil Nadu</state>
+		<CGPA>5-6.0</CGPA>
+		<psne>5</psne>
+		<msne>5</msne>
+		<minmax>4</minmax>
+		<saddlept>4</saddlept>
+	</record>
+	<record>
+		<name>Athmanathan</name>
+		<gender>Male</gender>
+		<SR>9071</SR>
+		<deptmail>athmanathan@ug.iisc.in</deptmail>
+		<degree>BS</degree>
+		<department>OTHERS</department>
+		<state>Tamil Nadu</state>
+		<CGPA>6.5-7</CGPA>
+		<psne>5</psne>
+		<msne>4</msne>
+		<minmax>5</minmax>
+		<saddlept>5</saddlept>
+	</record>
+	<record>
+		<name>badavath prathap</name>
+		<gender>Male</gender>
+		<SR>10348</SR>
+		<deptmail>badavath.prathap@csa.iisc.ernet.in</deptmail>
+		<degree>ME</degree>
+		<department>CSA</department>
+		<state>ANDHRA PRADESH</state>
+		<CGPA>Below 5.0</CGPA>
+		<psne>1</psne>
+		<msne>3</msne>
+		<minmax>1</minmax>
+		<saddlept>1</saddlept>
+	</record>
+	<record>
+		<name>Bibaswan Kumar Chatterjee</name>
+		<gender>Male</gender>
+		<SR>10141</SR>
+		<deptmail>bibaswan.chatterjee@csa.iisc.ernet.in</deptmail>
+		<degree>ME</degree>
+		<department>CSA</department>
+		<state>West Bengal</state>
+		<CGPA>7.5-8</CGPA>
+		<psne>4</psne>
+		<msne>3</msne>
+		<minmax>3</minmax>
+		<saddlept>3</saddlept>
+	</record>
+	<record>
+		<name>chandan ashish</name>
+		<gender>Male</gender>
+		<SR>10181</SR>
+		<deptmail>chandan@civil.iisc.ernet.in</deptmail>
+		<degree>ME</degree>
+		<department>CIVIL</department>
+		<state>karnatka</state>
+		<CGPA>6-6.5</CGPA>
+		<psne>4</psne>
+		<msne>4</msne>
+		<minmax>4</minmax>
+		<saddlept>4</saddlept>
+	</record>
+	<record>
+		<name>chirag s igoor</name>
+		<gender>Male</gender>
+		<SR>9070</SR>
+		<deptmail>chirag@ug.iisc.in</deptmail>
+		<degree>BS</degree>
+		<department>OTHERS</department>
+		<state>Karnataka</state>
+		<CGPA>6-6.5</CGPA>
+		<psne>3</psne>
+		<msne>3</msne>
+		<minmax>3</minmax>
+		<saddlept>3</saddlept>
+	</record>
+	<record>
+		<name>Ganesh Bellikar</name>
+		<gender>Male</gender>
+		<SR>10728</SR>
+		<deptmail>ganesh.bellikar@csa.iisc.ernet.in</deptmail>
+		<degree>ME</degree>
+		<department>CSA</department>
+		<state>Karnataka</state>
+		<CGPA>5-6.0</CGPA>
+		<psne>5</psne>
+		<msne>4</msne>
+		<minmax>4</minmax>
+		<saddlept>5</saddlept>
+	</record>
+	<record>
+		<name>ganesh sambhaji ghalme</name>
+		<gender>Male</gender>
+		<SR>10249</SR>
+		<deptmail>ganeshghalme@ee.iisc.ernet.in</deptmail>
+		<degree>ME</degree>
+		<department>EE</department>
+		<state>Maharashtra</state>
+		<CGPA>5-6.0</CGPA>
+		<psne>4</psne>
+		<msne>4</msne>
+		<minmax>4</minmax>
+		<saddlept>4</saddlept>
+	</record>
+	<record>
+		<name>Inzemamul Haque</name>
+		<gender>Male</gender>
+		<SR>10495</SR>
+		<deptmail>inzemamul.haque@csa.iisc.ernet.in</deptmail>
+		<degree>PhD</degree>
+		<department>CSA</department>
+		<state>MP</state>
+		<CGPA>Below 5.0</CGPA>
+		<psne>4</psne>
+		<msne>4</msne>
+		<minmax>3</minmax>
+		<saddlept>5</saddlept>
+	</record>
+	<record>
+		<name>Janhavi A Kolhe</name>
+		<gender>Female</gender>
+		<SR>9084</SR>
+		<deptmail>kjanhavi@ug.iisc.in</deptmail>
+		<degree>BS</degree>
+		<department>OTHERS</department>
+		<state>MAHARASHTRA</state>
+		<CGPA>7-7.5</CGPA>
+		<psne>5</psne>
+		<msne>5</msne>
+		<minmax>4</minmax>
+		<saddlept>4</saddlept>
+	</record>
+	<record>
+		<name>Santosh Srinivas Karrotu</name>
+		<gender>Male</gender>
+		<SR>10148</SR>
+		<deptmail>karrotu.srinivas@csa.iisc.ernet.in</deptmail>
+		<degree>ME</degree>
+		<department>CSA</department>
+		<state>Andhra Pradesh</state>
+		<CGPA>5-6.0</CGPA>
+		<psne>5</psne>
+		<msne>5</msne>
+		<minmax>4</minmax>
+		<saddlept>4</saddlept>
+	</record>
+	<record>
+		<name>M.Naveen Reddy</name>
+		<gender>Male</gender>
+		<SR>9462</SR>
+		<deptmail>mnreddy_hyd@ece.iisc.ernet.in</deptmail>
+		<degree>ME</degree>
+		<department>ECE</department>
+		<state>Andhra Pradesh</state>
+		<CGPA>5-6.0</CGPA>
+		<psne>5</psne>
+		<msne>4</msne>
+		<minmax>4</minmax>
+		<saddlept>5</saddlept>
+	</record>
+	<record>
+		<name>Mayakuntla Sai Kiran</name>
+		<gender>Male</gender>
+		<SR>10353</SR>
+		<deptmail>saikiran@civil.iisc.ernet.in</deptmail>
+		<degree>MTech</degree>
+		<department>CIVIL</department>
+		<state>Andhra Pradesh</state>
+		<CGPA>6-6.5</CGPA>
+		<psne>4</psne>
+		<msne>4</msne>
+		<minmax>4</minmax>
+		<saddlept>4</saddlept>
+	</record>
+	<record>
+		<name>MARTIN JAMES</name>
+		<gender>Male</gender>
+		<SR>9061</SR>
+		<deptmail>martin@ug.iisc.in</deptmail>
+		<degree>BS</degree>
+		<department>OTHERS</department>
+		<state>Kerala</state>
+		<CGPA>6.5-7</CGPA>
+		<psne>5</psne>
+		<msne>4</msne>
+		<minmax>4</minmax>
+		<saddlept>4</saddlept>
+	</record>
+	<record>
+		<name>Mohd Aqil</name>
+		<gender>Male</gender>
+		<SR>10770</SR>
+		<deptmail>mohd.aqil@csa.iisc.ernet.in</deptmail>
+		<degree>ME</degree>
+		<department>CSA</department>
+		<state>U.P.</state>
+		<CGPA>5-6.0</CGPA>
+		<psne>5</psne>
+		<msne>5</msne>
+		<minmax>5</minmax>
+		<saddlept>5</saddlept>
+	</record>
+	<record>
+		<name>Pankhuri</name>
+		<gender>Female</gender>
+		<SR>10301</SR>
+		<deptmail>pankhuri@csa.iisc.ernet.in</deptmail>
+		<degree>ME</degree>
+		<department>CSA</department>
+		<state>Bihar</state>
+		<CGPA>6.5-7</CGPA>
+		<psne>4</psne>
+		<msne>4</msne>
+		<minmax>4</minmax>
+		<saddlept>4</saddlept>
+	</record>
+	<record>
+		<name>Parixit Prasad</name>
+		<gender>Male</gender>
+		<SR>10332</SR>
+		<deptmail>parixit.prasad@csa.iisc.ernet.in</deptmail>
+		<degree>ME</degree>
+		<department>CSA</department>
+		<state>Karnataka</state>
+		<CGPA>6-6.5</CGPA>
+		<psne>4</psne>
+		<msne>3</msne>
+		<minmax>3</minmax>
+		<saddlept>4</saddlept>
+	</record>
+	<record>
+		<name>PAWAN KUMAR</name>
+		<gender>Male</gender>
+		<SR>10187</SR>
+		<deptmail>pawan.kumar@csa.iisc.ernet.in</deptmail>
+		<degree>ME</degree>
+		<department>CSA</department>
+		<state>Uttar Pradesh</state>
+		<CGPA>6.5-7</CGPA>
+		<psne>5</psne>
+		<msne>4</msne>
+		<minmax>4</minmax>
+		<saddlept>4</saddlept>
+	</record>
+	<record>
+		<name>Pradeep Bansal</name>
+		<gender>Male</gender>
+		<SR>10137</SR>
+		<deptmail>pradeepb@ee.iisc.ernet.in</deptmail>
+		<degree>ME</degree>
+		<department>EE</department>
+		<state>karanataka</state>
+		<CGPA>7.5-8</CGPA>
+		<psne>5</psne>
+		<msne>5</msne>
+		<minmax>4</minmax>
+		<saddlept>5</saddlept>
+	</record>
+	<record>
+		<name>Pranav Garg</name>
+		<gender>Male</gender>
+		<SR>9085</SR>
+		<deptmail>pranav@ug.iisc.in</deptmail>
+		<degree>BS</degree>
+		<department>OTHERS</department>
+		<state>Andhra Pradesh</state>
+		<CGPA>7.5-8</CGPA>
+		<psne>5</psne>
+		<msne>5</msne>
+		<minmax>4</minmax>
+		<saddlept>5</saddlept>
+	</record>
+	<record>
+		<name>Pranav Gupta</name>
+		<gender>Male</gender>
+		<SR>9037</SR>
+		<deptmail>pranavgupta@ug.iisc.in</deptmail>
+		<degree>BS</degree>
+		<department>OTHERS</department>
+		<state>Gujarat</state>
+		<CGPA>6.5-7</CGPA>
+		<psne>5</psne>
+		<msne>4</msne>
+		<minmax>3</minmax>
+		<saddlept>5</saddlept>
+	</record>
+	<record>
+		<name>Priyank Parihar</name>
+		<gender>Male</gender>
+		<SR>10213</SR>
+		<deptmail>priyank.parihar@csa.iisc.ernet.in</deptmail>
+		<degree>ME</degree>
+		<department>CSA</department>
+		<state>Bangalore</state>
+		<CGPA>5-6.0</CGPA>
+		<psne>5</psne>
+		<msne>5</msne>
+		<minmax>5</minmax>
+		<saddlept>5</saddlept>
+	</record>
+	<record>
+		<name>Puneet</name>
+		<gender>Male</gender>
+		<SR>10151</SR>
+		<deptmail>puneet.pahuja@csa.iisc.ernet.in</deptmail>
+		<degree>ME</degree>
+		<department>CSA</department>
+		<state>Haryana</state>
+		<CGPA>6-6.5</CGPA>
+		<psne>5</psne>
+		<msne>4</msne>
+		<minmax>4</minmax>
+		<saddlept>4</saddlept>
+	</record>
+	<record>
+		<name>rajhans gondane</name>
+		<gender>Male</gender>
+		<SR>10320</SR>
+		<deptmail>rajhans.gondane@ee.iisc.ernet.in</deptmail>
+		<degree>ME</degree>
+		<department>EE</department>
+		<state>madhya pradesh</state>
+		<CGPA>Below 5.0</CGPA>
+		<psne>4</psne>
+		<msne>4</msne>
+		<minmax>5</minmax>
+		<saddlept>5</saddlept>
+	</record>
+	<record>
+		<name>SACHIN KUMAR SRIVASTAVA</name>
+		<gender>Male</gender>
+		<SR>10339</SR>
+		<deptmail>sachin.srivastava@csa.iisc.ernet.in</deptmail>
+		<degree>ME</degree>
+		<department>CSA</department>
+		<state>KARNATAKA</state>
+		<CGPA>6-6.5</CGPA>
+		<psne>4</psne>
+		<msne>2</msne>
+		<minmax>4</minmax>
+		<saddlept>2</saddlept>
+	</record>
+	<record>
+		<name>sajith.b</name>
+		<gender>Male</gender>
+		<SR>10700</SR>
+		<deptmail>sajith.b@csa.iisc.ernet.in</deptmail>
+		<degree>ME</degree>
+		<department>CSA</department>
+		<state>KERALA</state>
+		<CGPA>Below 5.0</CGPA>
+		<psne>5</psne>
+		<msne>5</msne>
+		<minmax>3</minmax>
+		<saddlept>5</saddlept>
+	</record>
+	<record>
+		<name>Sayak Ray Chowdhury</name>
+		<gender>Male</gender>
+		<SR>10111</SR>
+		<deptmail>sayakrc@ee.iisc.ernet.in</deptmail>
+		<degree>ME</degree>
+		<department>EE</department>
+		<state>WB</state>
+		<CGPA>7-7.5</CGPA>
+		<psne>4</psne>
+		<msne>3</msne>
+		<minmax>3</minmax>
+		<saddlept>4</saddlept>
+	</record>
+	<record>
+		<name>Shabbir</name>
+		<gender>Male</gender>
+		<SR>8001</SR>
+		<deptmail>shabbir@ece.iisc.ernet.in</deptmail>
+		<degree>MSc</degree>
+		<department>ECE</department>
+		<state>Andhra Pradesh</state>
+		<CGPA>5-6.0</CGPA>
+		<psne>4</psne>
+		<msne>4</msne>
+		<minmax>3</minmax>
+		<saddlept>3</saddlept>
+	</record>
+	<record>
+		<name>Shaifali Gupta</name>
+		<gender>Female</gender>
+		<SR>10309</SR>
+		<deptmail>shaifali.gupta@csa.iisc.ernet.in</deptmail>
+		<degree>ME</degree>
+		<department>CSA</department>
+		<state>Delhi</state>
+		<CGPA>5-6.0</CGPA>
+		<psne>4</psne>
+		<msne>4</msne>
+		<minmax>3</minmax>
+		<saddlept>5</saddlept>
+	</record>
+	<record>
+		<name>Sravya Vankayala</name>
+		<gender>Female</gender>
+		<SR>10142</SR>
+		<deptmail>sravya.vankayala@csa.iisc.ernet.in</deptmail>
+		<degree>ME</degree>
+		<department>CSA</department>
+		<state>Andhra Pradesh</state>
+		<CGPA>6.5-7</CGPA>
+		<psne>5</psne>
+		<msne>3</msne>
+		<minmax>3</minmax>
+		<saddlept>4</saddlept>
+	</record>
+	<record>
+		<name>Suman Datta</name>
+		<gender>Male</gender>
+		<SR>10139</SR>
+		<deptmail>suman.datta@csa.iisc.ernet.in</deptmail>
+		<degree>ME</degree>
+		<department>CSA</department>
+		<state>West Bengal</state>
+		<CGPA>7.5-8</CGPA>
+		<psne>4</psne>
+		<msne>3</msne>
+		<minmax>3</minmax>
+		<saddlept>4</saddlept>
+	</record>
+	<record>
+		<name>Surabhi Akotiya</name>
+		<gender>Female</gender>
+		<SR>10234</SR>
+		<deptmail>surabhi.akotiya@csa.iisc.ernet.in</deptmail>
+		<degree>ME</degree>
+		<department>CSA</department>
+		<state>Madhya Pradesh</state>
+		<CGPA>5-6.0</CGPA>
+		<psne>4</psne>
+		<msne>3</msne>
+		<minmax>4</minmax>
+		<saddlept>5</saddlept>
+	</record>
+	<record>
+		<name>Terrence George</name>
+		<gender>Male</gender>
+		<SR>9080</SR>
+		<deptmail>gterrence@ug.iisc.in</deptmail>
+		<degree>BS</degree>
+		<department>OTHERS</department>
+		<state>Kerala</state>
+		<CGPA>7-7.5</CGPA>
+		<psne>5</psne>
+		<msne>5</msne>
+		<minmax>5</minmax>
+		<saddlept>5</saddlept>
+	</record>
+	<record>
+		<name>Vibhuti Shali</name>
+		<gender>Female</gender>
+		<SR>10226</SR>
+		<deptmail>vibhuti.shali@csa.iisc,ernet,in</deptmail>
+		<degree>ME</degree>
+		<department>CSA</department>
+		<state>Jammu And Kashmir</state>
+		<CGPA>5-6.0</CGPA>
+		<psne>5</psne>
+		<msne>5</msne>
+		<minmax>4</minmax>
+		<saddlept>5</saddlept>
+	</record>
+	<record>
+		<name>Vijaikumar m</name>
+		<gender>Male</gender>
+		<SR>10166</SR>
+		<deptmail>vijaikumar.m@csa.iisc.ernet.in</deptmail>
+		<degree>ME</degree>
+		<department>CSA</department>
+		<state>Tamil Nadu</state>
+		<CGPA>5-6.0</CGPA>
+		<psne>5</psne>
+		<msne>4</msne>
+		<minmax>4</minmax>
+		<saddlept>5</saddlept>
+	</record>
+	<record>
+		<name>Vinith Kumar T</name>
+		<gender>Male</gender>
+		<SR>10108</SR>
+		<deptmail>vkt28@ee.iisc.ernet.in</deptmail>
+		<degree>ME</degree>
+		<department>EE</department>
+		<state>Tamil Nadu</state>
+		<CGPA>Below 5.0</CGPA>
+		<psne>3</psne>
+		<msne>3</msne>
+		<minmax>3</minmax>
+		<saddlept>3</saddlept>
+	</record>
+	<record>
+		<name>Sayan Biswas</name>
+		<gender>Male</gender>
+		<SR>10202</SR>
+		<deptmail>sayan.biswas@csa.iisc.ernet.in</deptmail>
+		<degree>ME</degree>
+		<department>CSA</department>
+		<state>West Bengal</state>
+		<CGPA>5-6.0</CGPA>
+		<psne>5</psne>
+		<msne>4</msne>
+		<minmax>4</minmax>
+		<saddlept>4</saddlept>
+	</record>
+	<record>
+		<name>Arnab sen</name>
+		<gender>Male</gender>
+		<SR>10237</SR>
+		<deptmail>arnab.sen@csa.iisc.ernet.in</deptmail>
+		<degree>ME</degree>
+		<department>CSA</department>
+		<state>West Bengal</state>
+		<CGPA>6-6.5</CGPA>
+		<psne>4</psne>
+		<msne>3</msne>
+		<minmax>3</minmax>
+		<saddlept>4</saddlept>
+	</record>
+</data-set>
